@@ -1,6 +1,4 @@
-
 from classes.file_operation_controller import FileOperationController
-
 
 def main():
     controller = FileOperationController('example')
